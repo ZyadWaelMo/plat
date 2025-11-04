@@ -15,7 +15,7 @@ Plat is a modern recipe application built with Nuxt 3, demonstrating various fea
 - 📱 Mobile-first approach
 
 ## Technical Stack
-- **Framework**: Nuxt 3
+- **Framework**: Nuxt 4
 - **Styling**: Tailwind CSS
 - **Typography**: Google Fonts
 - **Icons**: Nuxt Icon
