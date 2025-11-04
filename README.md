@@ -1,6 +1,43 @@
-# Nuxt Minimal Starter
+# Plat - Recipe Application
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Overview
+Plat is a modern recipe application built with Nuxt 3, demonstrating various features and best practices in modern web development.
+
+## Key Features
+- 🎯 Dynamic recipe browsing and detailed views
+- 🔄 Server-side rendering (SSR) implementation
+- 📱 Responsive design with Tailwind CSS
+- 🖼️ Optimized image handling with Nuxt Image
+- 🔍 SEO optimization with meta tags
+- 🎨 Custom components architecture
+- 🛣️ Dynamic routing with params
+- 🔄 API integration with useFetch
+- 📱 Mobile-first approach
+
+## Technical Stack
+- **Framework**: Nuxt 3
+- **Styling**: Tailwind CSS
+- **Typography**: Google Fonts
+- **Icons**: Nuxt Icon
+- **Image Optimization**: Nuxt Image
+- **Type Safety**: TypeScript
+- **API Integration**: DummyJSON API
+
+## Key Components
+- BaseNavigation
+- BaseBtn
+- RecipeCard
+- Error Handling
+- Layout System
+
+## Features
+- Dynamic recipe pages
+- Smooth scroll functionality
+- Responsive image handling
+- SEO-optimized meta tags
+- Type-safe props
+- Error boundary implementation
+- Layout system
 
 ## Setup
 
@@ -38,38 +75,3 @@ yarn dev
 bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
