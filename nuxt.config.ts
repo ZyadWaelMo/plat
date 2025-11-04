@@ -8,9 +8,9 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     '@nuxt/image'
   ],
-  // image: {
-  //   domains:['https://cdn.dummyjson.com']
-  // },
+  image: {
+    domains:['https://cdn.dummyjson.com']
+  },
   // image: {
   //   domains: ['cdn.dummyjson.com']  // Remove https:// from the domain
   // },
